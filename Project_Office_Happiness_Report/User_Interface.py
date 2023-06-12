@@ -19,7 +19,7 @@ while True:
     if ch == 1:
         pass
     elif ch==2:
-        pass
+        print(e.get_happiness_data()) #happiness data added to main branch
     elif ch==3:
         pass
     elif ch==4:
@@ -34,3 +34,4 @@ while True:
         break
     else:
         pass
+    
