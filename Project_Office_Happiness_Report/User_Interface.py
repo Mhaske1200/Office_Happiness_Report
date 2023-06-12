@@ -23,7 +23,7 @@ while True:
     elif ch==3:
         pass
     elif ch==4:
-        pass
+        d.display_happiness() #method added to aishwarya branch
     elif ch==5:
         pass
     elif ch==6:
